@@ -1,0 +1,14 @@
+tag,B-tag,I-tag
+销售时间,B-STM,I-STM
+地点,B-PLA,I-PLA
+异物涉事厂商,B-FSF,I-FSF
+存在异物食品,B-FSD,I-FSD
+所存在异物,B-FSB,I-FSB
+被假冒品牌,B-FAB,I-FAB
+被假冒食品,B-FAD,I-FAD
+假冒涉事厂商,B-FAF,I-FAF
+罚款,B-PEN,I-PEN
+违法所得,B-PRO,I-PRO
+超标涉事厂商,B-EXF,I-EXF
+超标食品,B-EXD,I-EXD
+超标项目,B-EXI,I-EXI

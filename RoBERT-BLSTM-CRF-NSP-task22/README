@@ -1,0 +1,23 @@
+一、安装环境
+1.如果可以直接运行就不用纠结环境
+2.我虚拟环境的所有安装的包和对应版本都在 requirements.txt文件中，要安装的有点多，因为有一些这里没有用到我也没删，
+安装方法在这个链接里 https://www.jianshu.com/p/acb3205aea54，
+3.该环境只可以在cpu下运行，如果想使用cuda配不出环境的话，可以来问我
+
+二、数据处理
+1.可以通过data_process/data_utils2对标注好的数据进行处理，数据的格式如“fake.xls”、“recall.xls”、“forbidden.xls”所示
+2.运行完即可分为训练集datasets/train、datasets/dev验证集、datasets/test测试集三部分,当前是已经处理好的状态
+
+三、训练模型
+1.运行 demo_train.py 即可进行训练
+可修改seq_tag/hparams.py中的参数，来调整模型参数
+2.每个epoch验证集的各个tag的准确率输出在acc_result.txt 现在还没有，每个epoch的准确率输出在saved_models/checkpoint.json中
+3.最终的模型存储存储在saved_models文件夹里面
+
+四、模型预测
+1.由于模型的准确率需要人为进行判断及计算，所以测试集需通过运行demo_predict.py预测出结果后，进行输出，
+输出为triples_test.txt triples_true.txt两个文件，分别是测试集输出结果和其对应的正确的值
+2.对于模型进行应用，则运行event_extract.py，此处的数据输入为数据库一个表中的数据，最终分三个数据类型分别存储到了三个list里，
+此前是存储到数据库中的，但目前数据库没有这三个表了，于是我给注释掉了，可以自己写一段输出到excel表格中的程序。
+另外，在这里除了使用训练好的BERT-CRF模型外，此处还使用hanlp开源模型进行时间、地点、机构、金额的抽取
+

@@ -1,0 +1,15 @@
+tag,B-tag,I-tag
+时间,B-TIM,I-TIM
+发布产品,B-RED,I-RED
+获奖人,B-WIP,I-WIP
+上映方,B-EXH,I-EXH
+下架产品,B-OSD,I-OSD
+召回内容,B-REC,I-REC
+发布方,B-PUP,I-PUP
+奖项,B-AWA,I-AWA
+上映影视,B-OMV,I-OMV
+被下架方,B-RDP,I-RDP
+召回方,B-REP,I-REP
+颁奖机构,B-AWO,I-AWO
+下架方,B-OSP,I-OSP
+
