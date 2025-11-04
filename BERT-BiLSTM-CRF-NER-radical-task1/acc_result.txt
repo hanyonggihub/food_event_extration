@@ -1,0 +1,260 @@
+epoch:0
+           precision    recall  f1-score   support
+
+      EXC       0.98      1.00      0.99       111
+      FAK       0.97      0.99      0.98       123
+
+micro avg       0.97      1.00      0.99       234
+macro avg       0.97      1.00      0.99       234
+
+0f1:0.985200845665962
+0precision:0.9748953974895398
+0recall:0.9957264957264957
+0accuracy:0.9991162474507138
+epoch:1
+           precision    recall  f1-score   support
+
+      EXC       0.97      1.00      0.99       111
+      FAK       0.98      1.00      0.99       123
+
+micro avg       0.98      1.00      0.99       234
+macro avg       0.98      1.00      0.99       234
+
+1f1:0.9894291754756871
+1precision:0.9790794979079498
+1recall:1.0
+1accuracy:0.9993881713120326
+epoch:2
+           precision    recall  f1-score   support
+
+      EXC       0.97      0.99      0.98       111
+      FAK       0.98      1.00      0.99       123
+
+micro avg       0.98      1.00      0.99       234
+macro avg       0.98      1.00      0.99       234
+
+2f1:0.9872881355932203
+2precision:0.9789915966386554
+2recall:0.9957264957264957
+2accuracy:0.9993201903467029
+epoch:3
+           precision    recall  f1-score   support
+
+      EXC       0.99      1.00      1.00       111
+      FAK       0.98      1.00      0.99       123
+
+micro avg       0.99      1.00      0.99       234
+macro avg       0.99      1.00      0.99       234
+
+3f1:0.9936305732484078
+3precision:0.9873417721518988
+3recall:1.0
+3accuracy:0.9995241332426921
+epoch:4
+           precision    recall  f1-score   support
+
+      EXC       0.99      0.99      0.99       111
+      FAK       0.98      1.00      0.99       123
+
+micro avg       0.99      1.00      0.99       234
+macro avg       0.99      1.00      0.99       234
+
+4f1:0.9914893617021276
+4precision:0.9872881355932204
+4recall:0.9957264957264957
+4accuracy:0.9995921142080217
+epoch:5
+           precision    recall  f1-score   support
+
+      EXC       0.99      0.95      0.97       111
+      FAK       0.98      1.00      0.99       123
+
+micro avg       0.99      0.98      0.98       234
+macro avg       0.99      0.98      0.98       234
+
+5f1:0.9828326180257511
+5precision:0.9870689655172413
+5recall:0.9786324786324786
+5accuracy:0.998844323589395
+epoch:6
+           precision    recall  f1-score   support
+
+      EXC       0.98      1.00      0.99       111
+      FAK       0.98      1.00      0.99       123
+
+micro avg       0.98      1.00      0.99       234
+macro avg       0.98      1.00      0.99       234
+
+6f1:0.9915254237288135
+6precision:0.9831932773109243
+6recall:1.0
+6accuracy:0.9995241332426921
+epoch:7
+           precision    recall  f1-score   support
+
+      EXC       0.98      0.99      0.99       111
+      FAK       0.98      1.00      0.99       123
+
+micro avg       0.98      1.00      0.99       234
+macro avg       0.98      1.00      0.99       234
+
+7f1:0.9893842887473461
+7precision:0.9831223628691983
+7recall:0.9957264957264957
+7accuracy:0.9995921142080217
+epoch:8
+           precision    recall  f1-score   support
+
+      EXC       0.98      0.99      0.99       111
+      FAK       0.98      1.00      0.99       123
+
+micro avg       0.98      1.00      0.99       234
+macro avg       0.98      1.00      0.99       234
+
+8f1:0.9893842887473461
+8precision:0.9831223628691983
+8recall:0.9957264957264957
+8accuracy:0.9995921142080217
+epoch:9
+           precision    recall  f1-score   support
+
+      EXC       0.99      1.00      1.00       111
+      FAK       0.97      0.98      0.98       123
+
+micro avg       0.98      0.99      0.99       234
+macro avg       0.98      0.99      0.99       234
+
+9f1:0.9851380042462845
+9precision:0.9789029535864979
+9recall:0.9914529914529915
+9accuracy:0.9996600951733514
+epoch:10
+           precision    recall  f1-score   support
+
+      EXC       0.99      1.00      1.00       111
+      FAK       0.98      0.99      0.99       123
+
+micro avg       0.99      1.00      0.99       234
+macro avg       0.99      1.00      0.99       234
+
+10f1:0.9914893617021276
+10precision:0.9872881355932204
+10recall:0.9957264957264957
+10accuracy:0.9995241332426921
+epoch:11
+           precision    recall  f1-score   support
+
+      EXC       0.99      1.00      1.00       111
+      FAK       0.98      1.00      0.99       123
+
+micro avg       0.99      1.00      0.99       234
+macro avg       0.99      1.00      0.99       234
+
+11f1:0.9936305732484078
+11precision:0.9873417721518988
+11recall:1.0
+11accuracy:0.9997960571040109
+epoch:12
+           precision    recall  f1-score   support
+
+      EXC       0.99      1.00      1.00       111
+      FAK       0.99      0.99      0.99       123
+
+micro avg       0.99      1.00      0.99       234
+macro avg       0.99      1.00      0.99       234
+
+12f1:0.9936034115138592
+12precision:0.9914893617021276
+12recall:0.9957264957264957
+12accuracy:0.9998640380693405
+epoch:13
+           precision    recall  f1-score   support
+
+      EXC       0.99      1.00      1.00       111
+      FAK       0.98      1.00      0.99       123
+
+micro avg       0.99      1.00      0.99       234
+macro avg       0.99      1.00      0.99       234
+
+13f1:0.9936305732484078
+13precision:0.9873417721518988
+13recall:1.0
+13accuracy:0.9996600951733514
+epoch:14
+           precision    recall  f1-score   support
+
+      EXC       0.99      1.00      1.00       111
+      FAK       0.98      1.00      0.99       123
+
+micro avg       0.99      1.00      0.99       234
+macro avg       0.99      1.00      0.99       234
+
+14f1:0.9936305732484078
+14precision:0.9873417721518988
+14recall:1.0
+14accuracy:0.9997960571040109
+epoch:15
+           precision    recall  f1-score   support
+
+      EXC       0.99      1.00      1.00       111
+      FAK       0.98      1.00      0.99       123
+
+micro avg       0.99      1.00      0.99       234
+macro avg       0.99      1.00      0.99       234
+
+15f1:0.9936305732484078
+15precision:0.9873417721518988
+15recall:1.0
+15accuracy:0.9996600951733514
+epoch:16
+           precision    recall  f1-score   support
+
+      EXC       1.00      1.00      1.00       111
+      FAK       0.98      1.00      0.99       123
+
+micro avg       0.99      1.00      1.00       234
+macro avg       0.99      1.00      1.00       234
+
+16f1:0.9957446808510638
+16precision:0.9915254237288136
+16recall:1.0
+16accuracy:0.9998640380693405
+epoch:17
+           precision    recall  f1-score   support
+
+      EXC       1.00      1.00      1.00       111
+      FAK       0.99      1.00      1.00       123
+
+micro avg       1.00      1.00      1.00       234
+macro avg       1.00      1.00      1.00       234
+
+17f1:0.9978678038379531
+17precision:0.9957446808510638
+17recall:1.0
+17accuracy:0.9999320190346703
+epoch:18
+           precision    recall  f1-score   support
+
+      EXC       1.00      1.00      1.00       111
+      FAK       0.98      0.99      0.98       123
+
+micro avg       0.99      1.00      0.99       234
+macro avg       0.99      1.00      0.99       234
+
+18f1:0.9914893617021276
+18precision:0.9872881355932204
+18recall:0.9957264957264957
+18accuracy:0.9997960571040109
+epoch:19
+           precision    recall  f1-score   support
+
+      EXC       1.00      1.00      1.00       111
+      FAK       0.98      1.00      0.99       123
+
+micro avg       0.99      1.00      1.00       234
+macro avg       0.99      1.00      1.00       234
+
+19f1:0.9957446808510638
+19precision:0.9915254237288136
+19recall:1.0
+19accuracy:0.9998640380693405
